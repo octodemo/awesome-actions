@@ -17,7 +17,7 @@ jobs:
         ISSUE_LABELS: report, automated issue
 
     - name: Remove workflow file from master branch
-      run: rm ./.github/workflows/probot-settings.yml
+      run: rm ./.github/workflows/bootstrap.yml
       if: github.repository != 'octodemo/awesome-actions'
 
     - name: Commit changes
