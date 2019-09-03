@@ -8,7 +8,8 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: add watcher to readme
-      run: echo -e "\nWe got a star :star: from ${{github.actor}}" >> README.md 
+      run: |
+        echo -e "\nWe got a star :star: from ${{github.actor}}" >> README.md 
     
     - name: Commit changes
       uses: elstudio/actions-js-build/commit@v2
