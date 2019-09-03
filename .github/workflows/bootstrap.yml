@@ -13,7 +13,7 @@ jobs:
       uses: peter-evans/create-issue-from-file@v1.0.1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        ISSUE_TITLE: Welcome ${{github.actor}} :tada:
+        ISSUE_TITLE: Welcome ${{github.actor}}
         ISSUE_CONTENT_FILEPATH: ./new-issue.md
         ISSUE_LABELS: report, automated issue
 
