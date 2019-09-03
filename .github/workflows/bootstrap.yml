@@ -18,6 +18,8 @@ jobs:
 
     - name: Add a project board
       run: ./create-board.sh
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Remove workflow file from master branch
       run: rm ./.github/workflows/bootstrap.yml
