@@ -1,0 +1,25 @@
+name: Enforce repository settings just once
+
+on: [push]
+
+jobs:
+  probot-settings:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Run probot-settings
+      uses: elstudio/actions-settings@v2
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+    - name: Remove workflow file from master branch
+      run: rm ./.github/workflows/probot-settings.yml
+      if: endsWith(github.ref, '/master') && ! endsWith(github.repository, '-template')
+
+    - name: Commit changes
+      uses: elstudio/actions-js-build/commit@v2
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
