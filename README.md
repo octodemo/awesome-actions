@@ -8,3 +8,5 @@ Repository template used to showcase Actions that tie into pull request and issu
 ### Star Gazers
 
 We got a star :star: from jonico
+
+We got a star :star: from pmanlukas
