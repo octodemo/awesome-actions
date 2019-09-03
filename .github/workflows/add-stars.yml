@@ -1,0 +1,19 @@
+name: Add Stars
+
+on: [watch]
+
+jobs:
+  addstars:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: add watcher to readme
+    - run: echo "We got a star from ${{github.actor}}" >> README.md 
+    
+    - name: Commit changes
+      uses: elstudio/actions-js-build/commit@v2
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    
+    
