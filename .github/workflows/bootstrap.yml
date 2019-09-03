@@ -16,6 +16,9 @@ jobs:
         ISSUE_CONTENT_FILEPATH: ./new-issue.md
         ISSUE_LABELS: report, automated issue
 
+    - name: Add a project board
+      run: ./create-board.sh
+
     - name: Remove workflow file from master branch
       run: rm ./.github/workflows/bootstrap.yml
       if: github.repository != 'octodemo/awesome-actions'
