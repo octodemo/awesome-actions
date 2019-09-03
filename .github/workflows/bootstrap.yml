@@ -1,5 +1,4 @@
-name: Enforce repository settings just once
-
+name: Bootstrap Repository
 on: [push]
 
 jobs:
