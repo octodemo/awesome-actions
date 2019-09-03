@@ -9,11 +9,13 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-    - name: Run probot-settings
-      uses: elstudio/actions-settings@v2
+    - name: Create Issue From File
+      uses: peter-evans/create-issue-from-file@v1.0.1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+        ISSUE_TITLE: Welcome ${{github.actor}} :tada:
+        ISSUE_CONTENT_FILEPATH: ./new-issue.md
+        ISSUE_LABELS: report, automated issue
 
     - name: Remove workflow file from master branch
       run: rm ./.github/workflows/probot-settings.yml
