@@ -8,6 +8,7 @@ ACCEPT_HEADER="application/vnd.github.inertia-preview+json"
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 echo "Creating new Project."
+curl -S -H "Authorization: Token $GITHUB_TOKEN" -H "Accept: $ACCEPT_HEADER" -H "Content-type: application/json" -X POST -d @$DIR/projects/project1.json https://api.github.com/repos/${GITHUB_REPOSITORY}/projects
 PROJECT_ID=`curl -s -H "Authorization: Token $GITHUB_TOKEN" -H "Accept: $ACCEPT_HEADER" -H "Content-type: application/json" -X POST -d @$DIR/projects/project1.json https://api.github.com/repos/${GITHUB_REPOSITORY}/projects | jq .id`
 echo "📊 Project created with id: $PROJECT_ID"
 
