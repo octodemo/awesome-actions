@@ -18,3 +18,5 @@ Any repository that will use this template as its base will automatically get th
 We got a star :star: from jonico
 
 We got a star :star: from pmanlukas
+
+We got a :star: from [@jonico](https://github.com/jonico)
