@@ -20,6 +20,11 @@ jobs:
       run: ./create-board.sh
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Set branch protection, disable wikis, define labels
+      uses: elstudio/actions-settings@v2
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Remove workflow file from master branch
       run: rm ./.github/workflows/bootstrap.yml
