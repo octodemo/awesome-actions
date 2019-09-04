@@ -23,9 +23,10 @@ jobs:
         
     - name: Set branch protection, disable wikis, define labels
       uses: elstudio/actions-settings@v2
+      with:
+        debug: true
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        DEBUG: true
 
     - name: Remove workflow file from master branch
       run: rm ./.github/workflows/bootstrap.yml
