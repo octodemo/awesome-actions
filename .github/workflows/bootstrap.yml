@@ -22,7 +22,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
     - name: Set branch protection, disable wikis, define labels
-      uses: elstudio/actions-settings@v2
+      uses: elstudio/actions-settings@v2-beta
       with:
         debug: true
       env:
