@@ -15,6 +15,13 @@ Awesome actions is a repository template that comes with pre-configured GitHub A
 
 Any repository that will use this template as its base will automatically get those workflows enabled. It can be used as a show case on how Open and Inner Source best practices (like welcoming new contributors) as well as bootstrapping repo settings (protected branches, turning wiki off, create project boards) can be "codified" and reused and constantly improved as part of a repository template. It also demonstrates how to react on non CI/CD specific events likes issues, pull requests, added stars and peridodic workflow executions.
 
+## How to use this repository
+
+Please do not work with this repository directly unless you like to contribute to its core functionality. Instead, please use it as a repository template and create a new repository for yourself based on this template. All you have to do is to click on the green __Use this template__ button above:
+
+![image](https://user-images.githubusercontent.com/1872314/64283899-a8f1c780-cf58-11e9-8998-55872ef55784.png)
+
+
 ## Actions used in this repository:
 
 - Greeting on first Issue and PR from [this Action](https://github.com/actions/first-interaction)
