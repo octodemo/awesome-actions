@@ -68,7 +68,7 @@ Get your GitHub Enterprise instance configured with the right authentication and
 
 - [Web-based management console](https://help.github.com/enterprise/admin/guides/installation/web-based-management-console/)
 
-- [Authenticating users for your GitHub Enterprise instance](https://help.github.com/enterprise/admin/guides/user-management/authenticating-users-for-your-github-enterprise-instance/)
+- [Authenticating users for your GitHub Enterprise instance](https://help.github.com/en/enterprise/admin/user-management/authenticating-users-for-your-github-enterprise-server-instance)
 
 - [High Availability configuration](https://help.github.com/enterprise/admin/guides/installation/high-availability-configuration/)
 
