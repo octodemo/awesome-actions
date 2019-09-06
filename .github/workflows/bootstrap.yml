@@ -15,19 +15,23 @@ jobs:
         ISSUE_TITLE: Welcome ${{github.actor}}
         ISSUE_CONTENT_FILEPATH: ./new-issue.md
         ISSUE_LABELS: report, automated issue
+      if: github.repository != 'octodemo/awesome-actions'
 
     - name: Add a project board
       run: ./create-board.sh
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      if: github.repository != 'octodemo/awesome-actions'
         
-    - name: Set branch protection, disable wikis, define labels
+    - name: Set branch protection, disable wikis, define labels 
       uses: elstudio/actions-settings@v2-beta
       with:
         debug: true
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         DEBUG: true
+      if: false
+      # not working yet as GITHUB_TOKEN does not have admin scope
 
     - name: Remove workflow file from master branch
       run: rm ./.github/workflows/bootstrap.yml
@@ -37,3 +41,4 @@ jobs:
       uses: elstudio/actions-js-build/commit@v2
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      if: github.repository != 'octodemo/awesome-actions'
