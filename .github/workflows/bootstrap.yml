@@ -2,7 +2,7 @@ name: Bootstrap Repository
 on: [push]
 
 jobs:
-  probot-settings:
+  bootstrap:
 
     runs-on: ubuntu-latest
 
