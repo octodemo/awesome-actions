@@ -1,0 +1,15 @@
+name: Run linter for English prose
+on: [pull_request]
+jobs:
+
+  build:
+    name: Run linter
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '10.x'
+    - run: |
+        npm install -g write-good 
+        write-good ${GITHUB_WORKSPACE}/README.md --parse
