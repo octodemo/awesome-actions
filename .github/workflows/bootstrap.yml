@@ -33,6 +33,6 @@ jobs:
       # not working yet as GITHUB_TOKEN does not have admin scope
 
     - name: Remove bootstrap workflow file from master branch
-      run: run: ./scripts/remove-bootstrap-workflow.sh
+      run: ./scripts/remove-bootstrap-workflow.sh
       env:
         GITHUB_COM_TOKEN: ${{ secrets.GITHUB_TOKEN }}
