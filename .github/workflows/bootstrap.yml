@@ -3,7 +3,7 @@ on: [push]
 
 jobs:
   bootstrap:
-    if: github.repository != 'octodemo/awesome-actions'
+    if: github.repository != 'octodemo/awesome-actions' && github.repository != 'jonico/awesome-actions'
     runs-on: ubuntu-latest
 
     steps:
@@ -15,7 +15,6 @@ jobs:
         ISSUE_TITLE: Welcome ${{github.actor}}
         ISSUE_CONTENT_FILEPATH: ./new-issue.md
         ISSUE_LABELS: report, automated issue
-
 
     - name: Add a project board
       run: ./create-board.sh
