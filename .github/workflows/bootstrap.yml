@@ -22,16 +22,6 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Set branch protection, disable wikis, define labels
-      uses: elstudio/actions-settings@v2-beta
-      with:
-        debug: true
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        DEBUG: true
-      if: false
-      # not working yet as GITHUB_TOKEN does not have admin scope
-
     - name: Remove bootstrap workflow file from master branch
       run: ./scripts/remove-bootstrap-workflow.sh
       env:
