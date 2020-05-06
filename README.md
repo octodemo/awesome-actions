@@ -5,6 +5,8 @@
 ![status](https://github.com/octodemo/awesome-actions/workflows/Greetings/badge.svg)
 ![status](https://github.com/octodemo/awesome-actions/workflows/Close%20stale%20issues/badge.svg)
 
+# TODO Turn this into an issue
+
 Awesome actions is a repository template that comes with pre-configured GitHub Actions that
 * [create project board](https://github.com/octodemo/awesome-actions/blob/4c2a1f1833790fe4f9a5a97c6002798eb341f9cc/.github/workflows/bootstrap.yml#L19-L22)
 * [create a welcome issue](https://github.com/octodemo/awesome-actions/blob/4c2a1f1833790fe4f9a5a97c6002798eb341f9cc/.github/workflows/bootstrap.yml#L11-L17) with info on how to use GitHub
