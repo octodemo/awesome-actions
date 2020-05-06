@@ -8,6 +8,7 @@ Awesome actions is a repository template that comes with pre-configured GitHub A
 * [mark issues that did not receive comments as stale and closes them](.github/workflows/add-stars.yml) a bit later if there was no recent activity
 * [add a cat gif](https://github.blog/2020-04-09-featured-actions-from-the-github-actions-hackathon/#action-cats) to any pull request created to reward pushing code
 * [add a template message based on a label](https://github.blog/2020-04-09-featured-actions-from-the-github-actions-hackathon/#actions-label-commenter)
+* [turns TODO comments in code into issues](https://github.blog/2020-04-09-featured-actions-from-the-github-actions-hackathon/#todo-to-issue)
 * automatically disables bootstrap workflows after initial execution
 
 Any repository that will use this template as its base will automatically get those workflows enabled. It can be used as a show case on how Open and Inner Source best practices (like welcoming new contributors) as well as bootstrapping project boards can be "codified" and reused and constantly improved as part of a repository template. It also demonstrates how to react on non CI/CD specific events likes issues, pull requests, added stars and peridodic workflow executions.
