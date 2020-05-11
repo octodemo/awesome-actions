@@ -21,14 +21,6 @@ Please do not work with this repository directly unless you like to contribute t
 
 ![image](https://user-images.githubusercontent.com/1872314/64283899-a8f1c780-cf58-11e9-8998-55872ef55784.png)
 
-
-## Actions used in this repository:
-
-- Greeting on first Issue and PR from [this Action](https://github.com/actions/first-interaction)
-- Marking issues as stale from [this Action](https://github.com/actions/stale)
-- Committing back to the repository to change the README file and disable bootstrapping workflows from [this Action](https://github.com/elstudio/actions-js-build/tree/master/commit)
-- Creating first issue from a file from [this Action](https://github.com/peter-evans/create-issue-from-file)
-
 ## Contributions welcome
 
 If you have any examples for great Actions as part of a repository template to show case the power of Actions outside traditional CI/CD, we are looking forward to your PRs.
