@@ -3,7 +3,7 @@ on: [push]
 
 jobs:
   bootstrap:
-    if: github.repository != 'octodemo/awesome-actions' && github.repository != 'jonico/awesome-actions'
+    if: endsWith(github.ref, '/master') && github.repository != 'octodemo/awesome-actions' && !startsWith(github.repository,'jonico/')
     runs-on: ubuntu-latest
 
     steps:
