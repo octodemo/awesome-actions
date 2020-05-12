@@ -35,3 +35,5 @@ If you have any examples for great Actions as part of a repository template to s
 
 ### Star Gazers
 
+
+We got a :star: from [@TimoWilhelm](https://github.com/TimoWilhelm)
