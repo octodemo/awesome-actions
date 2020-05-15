@@ -39,3 +39,5 @@ If you have any examples for great Actions as part of a repository template to s
 We got a :star: from [@TimoWilhelm](https://github.com/TimoWilhelm)
 
 We got a :star: from [@schtefan](https://github.com/schtefan)
+
+We got a :star: from [@andygrunwald](https://github.com/andygrunwald)
