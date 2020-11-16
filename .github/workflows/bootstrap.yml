@@ -9,7 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Create Issue From File
-      uses: peter-evans/create-issue-from-file@v1.0.1
+      uses: peter-evans/create-issue-from-file@v2.3.2
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         ISSUE_TITLE: Welcome ${{github.actor}}
