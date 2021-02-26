@@ -65,3 +65,5 @@ We got a :star: from [@conradwt](https://github.com/conradwt)
 We got a :star: from [@mohamedAchour](https://github.com/mohamedAchour)
 
 We got a :star: from [@timoles](https://github.com/timoles)
+
+We got a :star: from [@lazyoracle](https://github.com/lazyoracle)
