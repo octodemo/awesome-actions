@@ -63,3 +63,5 @@ We got a :star: from [@elstudio](https://github.com/elstudio)
 We got a :star: from [@conradwt](https://github.com/conradwt)
 
 We got a :star: from [@mohamedAchour](https://github.com/mohamedAchour)
+
+We got a :star: from [@timoles](https://github.com/timoles)
