@@ -71,3 +71,5 @@ We got a :star: from [@lazyoracle](https://github.com/lazyoracle)
 We got a :star: from [@anthonyfok](https://github.com/anthonyfok)
 
 We got a :star: from [@Bawanthathilan](https://github.com/Bawanthathilan)
+
+We got a :star: from [@OsirisXTLS](https://github.com/OsirisXTLS)
