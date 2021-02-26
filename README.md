@@ -59,3 +59,5 @@ We got a :star: from [@jonico](https://github.com/jonico)
 We got a :star: from [@CessatL](https://github.com/CessatL)
 
 We got a :star: from [@elstudio](https://github.com/elstudio)
+
+We got a :star: from [@conradwt](https://github.com/conradwt)
