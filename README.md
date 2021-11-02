@@ -119,3 +119,5 @@ We got a :star: from [@mvandermeulen](https://github.com/mvandermeulen)
 We got a :star: from [@gscho](https://github.com/gscho)
 
 We got a :star: from [@repository-sync](https://github.com/repository-sync)
+
+We got a :star: from [@philspokas](https://github.com/philspokas)
