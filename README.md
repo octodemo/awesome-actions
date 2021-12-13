@@ -123,3 +123,5 @@ We got a :star: from [@repository-sync](https://github.com/repository-sync)
 We got a :star: from [@philspokas](https://github.com/philspokas)
 
 We got a :star: from [@Siddhesh-Agarwal](https://github.com/Siddhesh-Agarwal)
+
+We got a :star: from [@JacquelineFriedberg](https://github.com/JacquelineFriedberg)
