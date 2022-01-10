@@ -129,3 +129,5 @@ We got a :star: from [@JacquelineFriedberg](https://github.com/JacquelineFriedbe
 We got a :star: from [@anipind](https://github.com/anipind)
 
 We got a :star: from [@neymarsabin](https://github.com/neymarsabin)
+
+We got a :star: from [@some-natalie](https://github.com/some-natalie)
