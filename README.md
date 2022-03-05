@@ -137,3 +137,5 @@ We got a :star: from [@austenstone](https://github.com/austenstone)
 We got a :star: from [@dreglad](https://github.com/dreglad)
 
 We got a :star: from [@lokeshsoni](https://github.com/lokeshsoni)
+
+We got a :star: from [@sbrinkerhoff](https://github.com/sbrinkerhoff)
