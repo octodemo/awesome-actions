@@ -149,3 +149,5 @@ We got a :star: from [@29rou](https://github.com/29rou)
 We got a :star: from [@felickz](https://github.com/felickz)
 
 We got a :star: from [@QuentinHuber](https://github.com/QuentinHuber)
+
+We got a :star: from [@thunder-red-star](https://github.com/thunder-red-star)
