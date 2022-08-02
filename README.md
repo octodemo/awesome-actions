@@ -155,3 +155,5 @@ We got a :star: from [@thunder-red-star](https://github.com/thunder-red-star)
 We got a :star: from [@jcbhmr](https://github.com/jcbhmr)
 
 We got a :star: from [@foresightyj](https://github.com/foresightyj)
+
+We got a :star: from [@makotot](https://github.com/makotot)
