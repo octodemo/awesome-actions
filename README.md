@@ -159,3 +159,5 @@ We got a :star: from [@foresightyj](https://github.com/foresightyj)
 We got a :star: from [@makotot](https://github.com/makotot)
 
 We got a :star: from [@tristiyadi](https://github.com/tristiyadi)
+
+We got a :star: from [@LadyKerr](https://github.com/LadyKerr)
