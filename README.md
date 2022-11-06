@@ -163,3 +163,5 @@ We got a :star: from [@tristiyadi](https://github.com/tristiyadi)
 We got a :star: from [@LadyKerr](https://github.com/LadyKerr)
 
 We got a :star: from [@marcusrbrown](https://github.com/marcusrbrown)
+
+We got a :star: from [@Chirantanbanik](https://github.com/Chirantanbanik)
