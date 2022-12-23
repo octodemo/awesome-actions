@@ -169,3 +169,5 @@ We got a :star: from [@Chirantanbanik](https://github.com/Chirantanbanik)
 We got a :star: from [@mortenp1337](https://github.com/mortenp1337)
 
 We got a :star: from [@wilapdantop](https://github.com/wilapdantop)
+
+We got a :star: from [@dduzgun-security](https://github.com/dduzgun-security)
