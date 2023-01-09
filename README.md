@@ -173,3 +173,5 @@ We got a :star: from [@wilapdantop](https://github.com/wilapdantop)
 We got a :star: from [@dduzgun-security](https://github.com/dduzgun-security)
 
 We got a :star: from [@apgeorg](https://github.com/apgeorg)
+
+We got a :star: from [@insolitum](https://github.com/insolitum)
