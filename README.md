@@ -187,3 +187,5 @@ We got a :star: from [@dethMastery](https://github.com/dethMastery)
 We got a :star: from [@akimdi](https://github.com/akimdi)
 
 We got a :star: from [@smallprogram](https://github.com/smallprogram)
+
+We got a :star: from [@AlenaNik](https://github.com/AlenaNik)
