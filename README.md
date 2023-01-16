@@ -191,3 +191,5 @@ We got a :star: from [@smallprogram](https://github.com/smallprogram)
 We got a :star: from [@AlenaNik](https://github.com/AlenaNik)
 
 We got a :star: from [@manueldevjour](https://github.com/manueldevjour)
+
+We got a :star: from [@tondrejk](https://github.com/tondrejk)
