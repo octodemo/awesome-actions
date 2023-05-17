@@ -225,3 +225,5 @@ We got a :star: from [@rowanelizabeth](https://github.com/rowanelizabeth)
 We got a :star: from [@SaavedraPractia](https://github.com/SaavedraPractia)
 
 We got a :star: from [@mvasquez](https://github.com/mvasquez)
+
+We got a :star: from [@dalakatt](https://github.com/dalakatt)
