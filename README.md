@@ -237,3 +237,5 @@ We got a :star: from [@dalakatt](https://github.com/dalakatt)
 We got a :star: from [@jacobhumston-school](https://github.com/jacobhumston-school)
 
 We got a :star: from [@DanHugoDanHugo](https://github.com/DanHugoDanHugo)
+
+We got a :star: from [@EvickaStudio](https://github.com/EvickaStudio)
