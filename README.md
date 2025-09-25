@@ -253,3 +253,5 @@ We got a :star: from [@cya](https://github.com/cya)
 We got a :star: from [@itsalfiesolons](https://github.com/itsalfiesolons)
 
 We got a :star: from [@quroni](https://github.com/quroni)
+
+We got a :star: from [@marykuo](https://github.com/marykuo)
