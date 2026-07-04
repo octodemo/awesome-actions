@@ -257,3 +257,5 @@ We got a :star: from [@quroni](https://github.com/quroni)
 We got a :star: from [@marykuo](https://github.com/marykuo)
 
 We got a :star: from [@rlarno](https://github.com/rlarno)
+
+We got a :star: from [@jyck613](https://github.com/jyck613)
