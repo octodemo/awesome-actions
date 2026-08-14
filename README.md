@@ -261,3 +261,5 @@ We got a :star: from [@rlarno](https://github.com/rlarno)
 We got a :star: from [@jyck613](https://github.com/jyck613)
 
 We got a :star: from [@voisard](https://github.com/voisard)
+
+We got a :star: from [@Tajaly](https://github.com/Tajaly)
